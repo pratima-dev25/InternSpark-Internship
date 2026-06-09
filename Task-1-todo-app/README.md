@@ -24,7 +24,7 @@ A modern Todo application built using React and Tailwind CSS.
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/pratima-dev25/InternSpark-Internship/tree/main/Task-1-todo-app
 ```
 
 2. Install dependencies
