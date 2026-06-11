@@ -7,7 +7,7 @@ export default function TodoList({todos, deleteTodo, doneTask, darkMode}){
     
     return(
 
-        <div className="flex justify-around items-center flex-wrap gap-2 w-full">
+        <div className="flex justify-around items-center flex-wrap gap-2 w-full m-5">
 
             <h1 className={ darkMode ? "font-bold text-2xl text-center mt-10 text-white"
             :"font-bold text-2xl text-center mt-10 "}>
